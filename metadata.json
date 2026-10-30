@@ -1,0 +1,6 @@
+{
+  "name": "نورپلنر | Noorplaner",
+  "description": "پلتفرم تخصصی برنامه‌ریزی تمرین، تغذیه و محصولات فیتنس علمی با ابزارهای بیومتریک و فروشگاه هوشمند",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
